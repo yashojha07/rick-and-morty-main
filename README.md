@@ -16,6 +16,6 @@ React Features Implemented are:
 * DATA FILTERS
 * DYNAMIC ROUTING 
 * SEARCH BAR
-
+* PAGINATION
 
 
